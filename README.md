@@ -1,11 +1,14 @@
 ## Hello there 👋
 
-My name is Tatiana and I'm a backend developer. 
-This is my github. In this space I will going to add some of my works.
+My name is Tatiana, and I am a backend developer specializing in Python.    
+This is my GitHub profile, where I will be sharing some of my projects related to API development and database design.    
+Contributions and feedback are welcome!
 
 ### My skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
