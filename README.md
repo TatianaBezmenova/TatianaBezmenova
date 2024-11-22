@@ -1,15 +1,10 @@
-## Всем здравствуйте 👋
-Меня зовут Татьяна и я бэкенд-разработчик, специализирующийся на Python.    
-Это мой профиль на GitHub, где я буду делиться некоторыми своими проектами, связанными с разработкой API и проектированием баз данных.    
-Вклады и отзывы приветствуются!
-
 ## Hello there 👋
 
 My name is Tatiana, and I am a backend developer specializing in Python.    
 This is my GitHub profile, where I will be sharing some of my projects related to API development and database design.    
 Contributions and feedback are welcome!
 
-### Навыки / My skills
+### My skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=rest&logoColor=white)
@@ -29,7 +24,7 @@ Contributions and feedback are welcome!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Контакты / Contacts
+### Contacts
 <a href="https://t.me/tatiana_bezmenova" target="_blank"><img src="https://img.shields.io/badge/Tatiana Bezmenova-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 
